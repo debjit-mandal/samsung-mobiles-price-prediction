@@ -2,7 +2,7 @@
 
 Prediction of price of Different Samsung Mobiles with respect to their features 
 
-The dataset is downloaded from https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset
+The dataset is downloaded from https://www.kaggle.com/datasets/gyanprakashkushwaha/samsung-mobiles-latest-dataset
 
 This model helps in Prediction of price of Different Samsung Mobiles with respect to their features 
 
